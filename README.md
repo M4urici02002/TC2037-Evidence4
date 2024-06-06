@@ -124,7 +124,7 @@ By testing number 30 the test focused on each thread's responsability:
 
 [Test Here](https://colab.research.google.com/drive/1FMS7YZkI4r5zjp2Uwb9_RcocgGB0qR9I?usp=sharing)
 
-<img width="585" alt="image" src="https://github.com/M4urici02002/TC2037-Evidence4/assets/106397627/344488e9-0acf-429e-bfd9-5e71c4283f64">
+<img width="900" alt="image" src="https://github.com/M4urici02002/TC2037-Evidence4/assets/106397627/344488e9-0acf-429e-bfd9-5e71c4283f64">
 
 ## Analysis
 Functional programming could simplify FizzBuzz by focusing on immutable data and pure functions. This style avoids changing data, making the program easier to understand and less prone to errors.
