@@ -127,5 +127,6 @@ By testing number 30 the test focused on each thread's responsability:
 
 ## Analysis
 Functional programming could simplify FizzBuzz by focusing on immutable data and pure functions. This style avoids changing data, making the program easier to understand and less prone to errors.
+
 The time complexity for this multithreaded approach remains O(n), as each number from 1 to n is processed exactly once. However, the real-world performance could be influenced by the overhead associated with thread management and synchronization.
 
