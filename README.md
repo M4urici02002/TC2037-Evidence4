@@ -1,8 +1,9 @@
 # TC2037-Evidence4
 ## Description
-For this project, I selected the "FizzBuzz" problem, a popular exercise used in coding interviews that tests basic programming logic. The challenge was enhanced by incorporating multithreading to demonstrate concurrency handling, making it relevant for understanding complex, high-performance application systems where synchronized execution is crucial.
+For this project, I selected the "FizzBuzz" problem from [LeetCode](https://leetcode.com/problems/fizz-buzz-multithreaded/), a popular exercise used in coding interviews that tests basic programming logic. The challenge was enhanced by incorporating multithreading to demonstrate concurrency handling, making it relevant for understanding complex, high-performance application systems where synchronized execution is crucial. 
 
 The primary challenge in multithreaded FizzBuzz is ensuring correct synchronization so the sequence prints accurately depending on each number's divisibility.
+
 
 ## Models:
 ### 1. Function-Specific Threads
